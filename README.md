@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dgandhi676
+- 👋 Hi, I’m Dev Gandhi
 - 👀 I’m interested in Learning Coding.
-- 🌱 I’m currently trying to learning coding language. 
+- 🌱 I’m currently learning coding language. 
 - 💞️ I’m looking to collaborate on your amazing work.
 - 📫 How to reach me devgandhi1113@gmail.com
 
