@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dev Gandhi
 - 👀 I’m interested in Learning Coding.
-- 🌱 I’m currently learning coding language. 
+- 🌱 I’m currently learning PHP, HTML, CSS, Javascript, JQuery, BootStrap, Advance Javascript language. 
 - 💞️ I’m looking to collaborate on your amazing work.
 - 📫 How to reach me devgandhi1113@gmail.com
 
